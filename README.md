@@ -1,2 +1,3 @@
-# cats-vs-dogs
-Approaching cats-vs-dogs ML classification problem from different angles
+# :cat: vs :dog:
+
+The problem: given a collection of labelled cats and dogs pictures, train a neural network to classify them.
